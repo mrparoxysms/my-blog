@@ -1,3 +1,10 @@
+---
+title: YAML Notes
+date: 2022-09-01 1:00:00
+description: YAML Notes
+published: true
+
+---
 # YAML Notes
 
 Here's where we get going on notes with YAML.
