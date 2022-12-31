@@ -3,6 +3,8 @@ title: YAML Notes
 date: 2022-09-01 1:00:00
 description: YAML Notes
 published: true
+tags:
+  - learn
 
 ---
 # YAML Notes
