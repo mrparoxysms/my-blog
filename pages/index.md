@@ -8,13 +8,11 @@ tags:
 
 ---
 
-Welcome to the Markata starter blog, this is your home page to edit and make
-your own.  Edit this page in `pages/index.md`.
+Hello. This is my blog. On it, I write things. From it, you and I will read things. Carry on.
 
-## Some helpful pages
+## Pages tagged 'learn'
 
-Here are some pages to help get you started. Feel free to delete them and and
-make this site your own.
+Below are pages that have been tagged 'learn'. These are notes I have written that are designed to help me learn.
 
 {% for post in markata.map('post', sort='date', filter='post.get("published", False)==True and date<=today and "learn" in post.get("tags", [])', reverse=False) %}
 !!! note "[{{ post['title'] }}]({{ post['slug'] }})"
