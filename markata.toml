@@ -67,7 +67,7 @@ icon = "icon.png"
 # color_bg = '#1f2022'
 # color_bg_code = '#1f2022'
 # color_text = '#eefbfe'
-# color_link = '#fb30c4' 
+# color_link = '#14ffff' 
 # color_accent = '#e1bd00c9'
 # overlay_brightness = '.85'
 
@@ -82,8 +82,8 @@ icon = "icon.png"
 lang = 'en'
 
 [markata.nav]
-'Home'='/'
-'All Posts'='/archive'
+'Home'='/my-blog/'
+'All Posts'='/my-blog/archive'
 
 [markata.prevnext]
 # strategy can be 'first' or 'all'
