@@ -24,10 +24,17 @@ year_renovated: 2023
 year_constructed: 1862
 
 number_units:
+
   - residential: 15
+
     - one studio
+
     - two two beds
+
     - one_bed: 10
+
     - luxury_loft: 2
+
   - commercial: 4
+
   - parking: 2
