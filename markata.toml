@@ -67,7 +67,7 @@ icon = "icon.png"
 # color_bg = '#1f2022'
 # color_bg_code = '#1f2022'
 # color_text = '#eefbfe'
-# color_link = '#14ffff' 
+color_link = '#14ffff' 
 # color_accent = '#e1bd00c9'
 # overlay_brightness = '.85'
 
